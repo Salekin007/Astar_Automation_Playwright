@@ -1,0 +1,3 @@
+[pytest]
+addopts = --playwright --maxfail=1 --disable-warnings --headed
+testpaths = tests
